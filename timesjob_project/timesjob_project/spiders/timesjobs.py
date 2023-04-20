@@ -20,11 +20,11 @@ class TimesjobsSpider(scrapy.Spider):
         skills = response.xpath("//ul[@class='list-job-dtl clearfix']/li/span/text()").getall()
 
         for i in range(len(title)):
-            yield {
-                'title': title[i].strip(),
-                'job_d': job_d[i].strip(),
-                'company_name': company_name[i].strip(),
-                'experience': experience[i].strip(),
-                'skills': skills[i].strip(),
+            yield { 
+                'Title': title[i].strip(),
+                'Job Description': job_d[i].strip(),
+                'Company Name': company_name[i].strip(),
+                'Experience': experience[i].strip(),
+                'KeySkills': skills[i].strip(),
                 
                 }

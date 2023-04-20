@@ -1,27 +1,177 @@
 [
-{"title": "Graphic Designer Hiring For Singapore", "job_d": "", "company_name": "CLOUD VISA IMMIGRATION LLP", "experience": "card_travel", "skills": "Web Graphic Designer , graphic designer , senior graphic designer , Web Graphics , Photoshop , Dreamweaver"},
-{"title": "Game Designer Hiring  For USA", "job_d": "Call & WhatsApp to Ms.Sneha - 9311529770Create visual text and imagery concepts by hand or with the help of computer softwareCommunicate ideas that inspire and captivate c...", "company_name": "", "experience": "3 - 8 yrs", "skills": "Game Designing , game designer , software"},
-{"title": "Software Engineer Hiring For USA", "job_d": "", "company_name": "CLOUD VISA IMMIGRATION LLP", "experience": "\u20b9", "skills": "software engineer , it engineer , software developer , senior software developer , senior software engineer"},
-{"title": "Software Engineer Hiring For Singapore", "job_d": "", "company_name": "", "experience": "Rs 50.00 - 70.00 Lacs p.a.", "skills": "software engineer , it engineer , software developer , senior software developer , senior software engineer"},
-{"title": "UX Designer Hiring For Singapore", "job_d": "", "company_name": "CLOUD VISA IMMIGRATION LLP", "experience": "", "skills": "ux designer , ui designer , ux problem , Ui Design"},
-{"title": "PHP Developer Job In Poland", "job_d": "", "company_name": "", "experience": "location_on", "skills": "PHP Developing , php developer , software developer , PHP c ++ Java"},
-{"title": "Chief Technical Officer (CTO)", "job_d": "", "company_name": "CLOUD VISA IMMIGRATION LLP", "experience": "", "skills": "Tertiary qualification , MS Hyper-v and VMWare , AD / DC implementation and administration"},
-{"title": "do part time job and earn daily basics through online", "job_d": "Call & WhatsApp to Ms.Sneha -9311529770use your creativity to design games for a range of devices and platforms that engage and capture the imagination of the userconsider...", "company_name": "", "experience": "Singapore", "skills": "Digital Marketing , data entry , computer operator , office assistant , data entry operator , operator , field engineer"},
-{"title": "Digital Marketing Manager", "job_d": "", "company_name": "CLOUD VISA IMMIGRATION LLP", "experience": "", "skills": "SEO , Google Analytics , Social Media Marketing , Smo , Smm , Google Adwords , Search Engine Optimization"},
-{"title": "IT  Software Engineer Hiring For Canada", "job_d": "", "company_name": "", "experience": "card_travel", "skills": "it eng , it engineer , technical support engineer , system administrator , network administrator , IT software engineer"},
-{"title": "Dot Net Developer", "job_d": "", "company_name": "PRIMEX IMMIGRATION LLP", "experience": "3 - 8 yrs", "skills": "css , bootstrap , ajax , t-sql , sql , xml , asp.net , sql developer , html , api , mvc , c# , rest , entity framework , javascript , visual studio , .net , c#.net , angularjs , software developer , soap"},
-{"title": "Graphic Designer", "job_d": "", "company_name": "", "experience": "\u20b9", "skills": "cs , website , mobile , photoshop , graphics , graphic designer"},
-{"title": "Staff Software Engineer", "job_d": "", "company_name": "A Reputed organisation", "experience": "Rs 40.00 - 70.00 Lacs p.a.", "skills": "algorithms , c   , advanced c , sql , database , git , software engineer , software engineering , data structures , cloud computing , rdbms"},
-{"title": "Technical Consultant - UC", "job_d": "Call or WhatsApp to Ms. Sneha -9311529770analyse user requirementswrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in ...", "company_name": "", "experience": "", "skills": "hosting , sharepoint , problem solving , windows , logical thinking"},
-{"title": "Change Manager", "job_d": "", "company_name": "sp solutions", "experience": "location_on", "skills": "risk mitigation , change management , global delivery , project management , service management , collaboration , customer facing"},
-{"title": "Change Manager integrated Ops", "job_d": "", "company_name": "", "experience": "", "skills": "risk mitigation , change management , global delivery , project management , service management , collaboration , customer facing"},
-{"title": "Performance Engineer", "job_d": "", "company_name": "OM Bharti Solutions", "experience": "", "skills": "load runner , performance testing , defect tracking , test cases , test scripts , jmeter , load testing , database , testing tools , test strategy , linux , software testing , defect life cycle , testing , uat , test director , user acceptance , performance analysis"},
-{"title": "Sr. System Software Engineer", "job_d": "", "company_name": "", "experience": "card_travel", "skills": "python , problem solving , docker , written communication , devops , linux , perl"},
-{"title": "Technical Consultant- Cisco Voice", "job_d": "", "company_name": "PRIMEX IMMIGRATION LLP", "experience": "3 - 8 yrs", "skills": "ucce , cisco voice , icm , cisco call manager , linux , ip telephony , ivr , ipt , windows os , mgcp"},
-{"title": "Engineer Network Management", "job_d": "Call or WhatsApp to Ms. Sneha -9311529770Develops information systems by designing, developing, and installing software solutions.Determines operational feasibility by evaluat...", "company_name": "", "experience": "\u20b9", "skills": "service level , itil framework , sow , service improvement , people management , change management , service delivery , itsm , business continuity , service support"},
-{"title": "Contact Center Developer", "job_d": "", "company_name": "v support solutions", "experience": "Rs 40.00 - 70.00 Lacs p.a.", "skills": "service oriented , icm , java , apache , xml , j2ee , cti , api , c# , oracle , .net , systemdevelopment , jsp , ado.net , jdbc , sql , database , vxml , voice recording , ivr , problem solving , informix , php , asp"},
-{"title": "Content Writer", "job_d": "", "company_name": "v support solutions", "experience": "", "skills": "css , rest api , business rules , devops , c# , triggers , javascript , bi , system administration , c , solution architect"},
-{"title": "Quant Trader", "job_d": "", "company_name": "Teradata Corporations", "experience": "location_on", "skills": "algorithms , python , c   , problem solving , machine learning"},
-{"title": "Software Engineer", "job_d": "", "company_name": "Orange Business Services", "experience": "", "skills": "fundamentals , algorithms , c   , data structures , big data , c , infrastructure , software developer"},
-{"title": "Senior php fullsatck developer", "job_d": "", "company_name": "Orange Business Services", "experience": "", "skills": "css , html5 , symfony , jquery , sql , docker , database , yii , software engineering , mysql , object oriented programming , mvc framework , laravel , python , javascript , php"}
+    {
+        "Title": "Graphic Designer Hiring For Singapore",
+        "Job Description": "",
+        "Company Name": "CLOUD VISA IMMIGRATION LLP",
+        "Experience": "card_travel",
+        "KeySkills": "Web Graphic Designer , graphic designer , senior graphic designer , Web Graphics , Photoshop , Dreamweaver"
+    },
+    {
+        "Title": "Game Designer Hiring  For USA",
+        "Job Description": "Call & WhatsApp to Ms.Sneha - 9311529770Create visual text and imagery concepts by hand or with the help of computer softwareCommunicate ideas that inspire and captivate c...",
+        "Company Name": "",
+        "Experience": "3 - 8 yrs",
+        "KeySkills": "Game Designing , game designer , software"
+    },
+    {
+        "Title": "Software Engineer Hiring For USA",
+        "Job Description": "",
+        "Company Name": "CLOUD VISA IMMIGRATION LLP",
+        "Experience": "\u20b9",
+        "KeySkills": "software engineer , it engineer , software developer , senior software developer , senior software engineer"
+    },
+    {
+        "Title": "Software Engineer Hiring For Singapore",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "Rs 50.00 - 70.00 Lacs p.a.",
+        "KeySkills": "software engineer , it engineer , software developer , senior software developer , senior software engineer"
+    },
+    {
+        "Title": "UX Designer Hiring For Singapore",
+        "Job Description": "",
+        "Company Name": "CLOUD VISA IMMIGRATION LLP",
+        "Experience": "",
+        "KeySkills": "ux designer , ui designer , ux problem , Ui Design"
+    },
+    {
+        "Title": "PHP Developer Job In Poland",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "location_on",
+        "KeySkills": "PHP Developing , php developer , software developer , PHP c ++ Java"
+    },
+    {
+        "Title": "Chief Technical Officer (CTO)",
+        "Job Description": "",
+        "Company Name": "CLOUD VISA IMMIGRATION LLP",
+        "Experience": "",
+        "KeySkills": "Tertiary qualification , MS Hyper-v and VMWare , AD / DC implementation and administration"
+    },
+    {
+        "Title": "do part time job and earn daily basics through online",
+        "Job Description": "Call & WhatsApp to Ms.Sneha -9311529770use your creativity to design games for a range of devices and platforms that engage and capture the imagination of the userconsider...",
+        "Company Name": "",
+        "Experience": "Singapore",
+        "KeySkills": "Digital Marketing , data entry , computer operator , office assistant , data entry operator , operator , field engineer"
+    },
+    {
+        "Title": "Digital Marketing Manager",
+        "Job Description": "",
+        "Company Name": "CLOUD VISA IMMIGRATION LLP",
+        "Experience": "",
+        "KeySkills": "SEO , Google Analytics , Social Media Marketing , Smo , Smm , Google Adwords , Search Engine Optimization"
+    },
+    {
+        "Title": "IT  Software Engineer Hiring For Canada",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "card_travel",
+        "KeySkills": "it eng , it engineer , technical support engineer , system administrator , network administrator , IT software engineer"
+    },
+    {
+        "Title": "Dot Net Developer",
+        "Job Description": "",
+        "Company Name": "PRIMEX IMMIGRATION LLP",
+        "Experience": "3 - 8 yrs",
+        "KeySkills": "css , bootstrap , ajax , t-sql , sql , xml , asp.net , sql developer , html , api , mvc , c# , rest , entity framework , javascript , visual studio , .net , c#.net , angularjs , software developer , soap"
+    },
+    {
+        "Title": "Graphic Designer",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "\u20b9",
+        "KeySkills": "cs , website , mobile , photoshop , graphics , graphic designer"
+    },
+    {
+        "Title": "Staff Software Engineer",
+        "Job Description": "",
+        "Company Name": "A Reputed organisation",
+        "Experience": "Rs 40.00 - 70.00 Lacs p.a.",
+        "KeySkills": "algorithms , c   , advanced c , sql , database , git , software engineer , software engineering , data structures , cloud computing , rdbms"
+    },
+    {
+        "Title": "Technical Consultant - UC",
+        "Job Description": "Call or WhatsApp to Ms. Sneha -9311529770analyse user requirementswrite and test code, refining and rewriting it as necessary and communicate with any programmers involved in ...",
+        "Company Name": "",
+        "Experience": "",
+        "KeySkills": "hosting , sharepoint , problem solving , windows , logical thinking"
+    },
+    {
+        "Title": "Change Manager",
+        "Job Description": "",
+        "Company Name": "sp solutions",
+        "Experience": "location_on",
+        "KeySkills": "risk mitigation , change management , global delivery , project management , service management , collaboration , customer facing"
+    },
+    {
+        "Title": "Change Manager integrated Ops",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "",
+        "KeySkills": "risk mitigation , change management , global delivery , project management , service management , collaboration , customer facing"
+    },
+    {
+        "Title": "Performance Engineer",
+        "Job Description": "",
+        "Company Name": "OM Bharti Solutions",
+        "Experience": "",
+        "KeySkills": "load runner , performance testing , defect tracking , test cases , test scripts , jmeter , load testing , database , testing tools , test strategy , linux , software testing , defect life cycle , testing , uat , test director , user acceptance , performance analysis"
+    },
+    {
+        "Title": "Sr. System Software Engineer",
+        "Job Description": "",
+        "Company Name": "",
+        "Experience": "card_travel",
+        "KeySkills": "python , problem solving , docker , written communication , devops , linux , perl"
+    },
+    {
+        "Title": "Technical Consultant- Cisco Voice",
+        "Job Description": "",
+        "Company Name": "PRIMEX IMMIGRATION LLP",
+        "Experience": "3 - 8 yrs",
+        "KeySkills": "ucce , cisco voice , icm , cisco call manager , linux , ip telephony , ivr , ipt , windows os , mgcp"
+    },
+    {
+        "Title": "Engineer Network Management",
+        "Job Description": "Call or WhatsApp to Ms. Sneha -9311529770Develops information systems by designing, developing, and installing software solutions.Determines operational feasibility by evaluat...",
+        "Company Name": "",
+        "Experience": "\u20b9",
+        "KeySkills": "service level , itil framework , sow , service improvement , people management , change management , service delivery , itsm , business continuity , service support"
+    },
+    {
+        "Title": "Contact Center Developer",
+        "Job Description": "",
+        "Company Name": "v support solutions",
+        "Experience": "Rs 40.00 - 70.00 Lacs p.a.",
+        "KeySkills": "service oriented , icm , java , apache , xml , j2ee , cti , api , c# , oracle , .net , systemdevelopment , jsp , ado.net , jdbc , sql , database , vxml , voice recording , ivr , problem solving , informix , php , asp"
+    },
+    {
+        "Title": "Content Writer",
+        "Job Description": "",
+        "Company Name": "v support solutions",
+        "Experience": "",
+        "KeySkills": "css , rest api , business rules , devops , c# , triggers , javascript , bi , system administration , c , solution architect"
+    },
+    {
+        "Title": "Quant Trader",
+        "Job Description": "",
+        "Company Name": "Teradata Corporations",
+        "Experience": "location_on",
+        "KeySkills": "algorithms , python , c   , problem solving , machine learning"
+    },
+    {
+        "Title": "Software Engineer",
+        "Job Description": "",
+        "Company Name": "Orange Business Services",
+        "Experience": "",
+        "KeySkills": "fundamentals , algorithms , c   , data structures , big data , c , infrastructure , software developer"
+    },
+    {
+        "Title": "Senior php fullsatck developer",
+        "Job Description": "",
+        "Company Name": "Orange Business Services",
+        "Experience": "",
+        "KeySkills": "css , html5 , symfony , jquery , sql , docker , database , yii , software engineering , mysql , object oriented programming , mvc framework , laravel , python , javascript , php"
+    }
 ]
